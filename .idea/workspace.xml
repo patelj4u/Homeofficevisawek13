@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a53a718-2825-45e7-96a4-402733a6910c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LPsd8ikXRVgITvKVHLDIsG8M6o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/home work/home-office-visa-check14/src/main/java/gov/uk/check/visa",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="utility" />
+      <recent name="testbase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\home work\home-office-visa-check14\src\main\java\gov\uk\check\visa" />
+      <recent name="C:\home work\home-office-visa-check14\src\test\java" />
+      <recent name="C:\home work\home-office-visa-check14\src\main\java" />
+      <recent name="C:\home work\home-office-visa-check14\src\test\java\gov\uk\check\visa" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gov.uk.check.visa.utility" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card">
+    <configuration name="VisaConfirmationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="METHOD_NAME" value="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="METHOD_NAME" value="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisaConfirmationTest.anAustralianCominToUKForTourism" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="home-office-visa-check13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gov.uk.check.visa.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gov.uk.check.visa.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="gov.uk.check.visa.testsuite.VisaConfirmationTest" />
+      <option name="METHOD_NAME" value="anAustralianCominToUKForTourism" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VisaConfirmationTest.aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" />
+        <item itemvalue="TestNG.VisaConfirmationTest.aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" />
+        <item itemvalue="TestNG.VisaConfirmationTest.anAustralianCominToUKForTourism" />
+        <item itemvalue="TestNG.VisaConfirmationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a53a718-2825-45e7-96a4-402733a6910c" name="Changes" comment="" />
+      <created>1675784140020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675784140020</updated>
+    </task>
+    <servers />
+  </component>
+</project>
